@@ -1,2 +1,2 @@
 # Poisson-s-binomial
-Just an implementation of poisson's binomial distribution based on a 2011 paper about computational methods. 
+Just an implementation of poisson's binomial distribution based on a [2011 paper](https://www.sciencedirect.com/science/article/pii/S0167947312003568?via%3Dihub) about the same. Will add the approximation methods and more options as well, eventually...
